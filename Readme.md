@@ -10,7 +10,9 @@ This is a CSS Layout designed and created using HTML and CSS only.
 
 ## **Screenshots :**
 
-![Web Site Image](https://raw.githubusercontent.com/navneetkumar22/placement_assignment_navneetkumar_cssq9/main/screenshot/screenshotq9.png)
+ 
+![image](https://github.com/DeeptiDaisy/layout/assets/109961309/4a81af48-22fc-4b5f-a0de-e7e6aa8445f5)
+
 
 <br>
 
