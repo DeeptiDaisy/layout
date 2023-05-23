@@ -20,6 +20,7 @@ This is a CSS Layout designed and created using HTML and CSS only.
 <br>
 
 ## **Deployed Link :**
-<a href="https://cssq9-navneetkumar.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="https://layout-css-website.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 
 <br>
+ 
